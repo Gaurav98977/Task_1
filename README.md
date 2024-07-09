@@ -1,0 +1,1 @@
+The objective of this task is to create a document that explains the ACID properties in the context of SQL databases. This document will be used to educate database users and developers about the importance of ACID properties in ensuring the reliability and integrity of database transactions.
